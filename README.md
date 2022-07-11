@@ -2,7 +2,7 @@
 
 Based on [rfc 1350](https://datatracker.ietf.org/doc/html/rfc1350).
 
-This is a simple library that parses tftp byte packets. See the [docs] for more information.
+This is a simple library that parses tftp byte packets. See the [docs](https://docs.rs/tftp-packet) for more information.
 
 ## The tftp packet
 
