@@ -2,6 +2,15 @@
 name = "tftp-packet"
 version = "0.1.0"
 edition = "2021"
+authors = ["Alexander Haas"]
+description = "A library for creating and parsing TFTP packets"
+license = "MIT"
+copyright = "Copyright (c) 2022 Alexander Haas"
+repository = "https://github.com/haasal/tftp-packet-rs.git"
+documentation = ""
+readme = "README.md"
+keywords = ["tftp", "packet", "protocol", "parser", "networking"]
+homepage = "https://github.com/haasal/tftp-packet-rs.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
